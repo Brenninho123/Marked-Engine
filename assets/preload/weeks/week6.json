@@ -1,7 +1,7 @@
 {
 	"songs": [
 		["Senpai", "senpai-pixel", [255, 120, 191]],
-		["Roses", "senpai-pixel", [255, 120, 191]],
+		["Roses", "senpai-angry-pixel", [255, 120, 191]],
 		["Thorns", "spirit-pixel", [255, 120, 191]]
 	],
 
@@ -16,6 +16,7 @@
 	"weekBefore": "week5",
 	"weekName": "Week 6",
 	"startUnlocked": true,
+	"difficulties": "easy,normal,hard,erect,nightmare",
 
 	"hideStoryMode": false,
 	"hideFreeplay": false

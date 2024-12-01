@@ -16,6 +16,7 @@
 	"weekBefore": "week2",
 	"weekName": "Week 3",
 	"startUnlocked": true,
+	"difficulties": "easy,normal,hard,erect,nightmare",
 
 	"hideStoryMode": false,
 	"hideFreeplay": false

@@ -10,10 +10,11 @@
 	],
 	"weekBackground": "stage",
 
-	"storyName": "",
+	"storyName": "Teaching Time",
 	"weekBefore": "tutorial",
 	"weekName": "Tutorial",
 	"startUnlocked": true,
+	"difficulties": "easy,normal,hard,erect,nightmare",
 
 	"hideStoryMode": false,
 	"hideFreeplay": false

@@ -4,7 +4,7 @@
 		["High", "mom", [252, 150, 215]],
 		["Milf", "mom", [252, 150, 215]]
 	],
-	
+
 	"weekCharacters": [
 		"mom",
 		"bf",
@@ -16,6 +16,7 @@
 	"weekBefore": "week3",
 	"weekName": "Week 4",
 	"startUnlocked": true,
+	"difficulties": "easy,normal,hard,erect,nightmare",
 
 	"hideStoryMode": false,
 	"hideFreeplay": false
